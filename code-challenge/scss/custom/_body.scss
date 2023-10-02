@@ -1,0 +1,54 @@
+.body{
+    font-size: 16px;
+}
+
+img{
+    width: 100%;
+}
+
+.container{
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+//colors
+.vanilla{
+    background-color: $vanilla;
+}
+
+.prussian-blue{
+    background-color: $prussian-blue;
+}
+
+.fire-engine-red{
+    background-color: $fire-engine-red;
+}
+
+.orange-wheel{
+    background-color: $orange-wheel;
+}
+
+.xanthous{
+    background-color: $xanthous;
+}
+$prussian-blue: #003049ff;
+$fire-engine-red: #d62828ff;
+$orange-wheel: #f77f00ff;
+$xanthous: #fcbf49ff;
+$vanilla: #eae2b7ff;
+
+h1{
+    text-align: center;
+}
+
+#testimonials{
+    img{
+        max-width: 4rem;
+        max-height: 4rem;
+        border-radius: 2rem;
+        margin-bottom: 2rem;
+    }
+}
+
+
